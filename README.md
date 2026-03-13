@@ -1,4 +1,4 @@
-![Legend](IMG_20260313_095126.png)
+![Legend](IMG20260313095126.png)
 
 # African Visionary Legends and Birni 3000
 
