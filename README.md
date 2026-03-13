@@ -1,4 +1,4 @@
-African Visionary Legends and Birni 3000
+![Legend](art1.png) African Visionary Legends and Birni 3000
 Mission Statement
 "I am a member of Generation Alpha, and I am a Social Innovator."
 Education and Technology
