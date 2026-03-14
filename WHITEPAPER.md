@@ -19,7 +19,7 @@ Our philosophy stands on three pillars:
 ---
 
 ## 3. 🚜 AgriTech Hub: Farming & Livestock
-Under **Khamzas KGC Services (RC: 7363970)**, we are transforming traditional farming into a high-tech industry:
+Under **Khamzas KGC Services (BN: 7363970)**, we are transforming traditional farming into a high-tech industry:
 * **Smart Farming:** Utilizing AI drones and sensors for soil health and crop monitoring.
 * **Livestock Modernization:** Implementing advanced data tracking for cattle and poultry.
 * **Web3 Integration:** Bridging physical farming with the blockchain to create transparent supply chains.
