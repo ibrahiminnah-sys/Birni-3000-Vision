@@ -53,7 +53,7 @@ In an increasingly digital world, security is paramount. We leverage professiona
 * **LinkedIn:** [Ibrahim Yakubu](https://www.linkedin.com/in/ibrahim-yakubu-2b4747355)
 * **OpenSea:** [African Visionary Legends](https://opensea.io/african_visionary_legends)
 * **Twitter/X:** [@ibrahiminnah](https://twitter.com/ibrahiminnah)
-* **Telegram:** [@birni3000artist](https://t.me/birni3000artist)
+* **Discord:** [Https://discord.gg/S4KhHszr2](https://t.me/birni3000artist)
 
 ---
 *© 2026 Khamzas KGC Services. All Rights Reserved.*
