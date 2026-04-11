@@ -1,4 +1,4 @@
-# 🌍 African Visionary Legends
+I'm# 🌍 African Visionary Legends
 > **"Viewing the future through the lens of today."**
 
 ---
@@ -41,7 +41,7 @@ Creating complex digital pieces that tell the compelling story of Africa's 22nd-
 ## 📫 Get in Touch
 Let's collaborate and build the future of Africa together!
 
-* **Discord:** `@Https://discord.gg/S4KhHszr2`
+* **Discord:** **@Https://discord.gg/S4KhHszr2*
 * **Email:** [ibrahiminnah@gmail.com](mailto:ibrahiminnah@gmail.com)
 
 ---
