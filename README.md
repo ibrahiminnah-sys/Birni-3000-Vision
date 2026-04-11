@@ -1,4 +1,4 @@
-I'm# 🌍 African Visionary Legends
+# 🌍 African Visionary Legends
 > **"Viewing the future through the lens of today."**
 
 ---
