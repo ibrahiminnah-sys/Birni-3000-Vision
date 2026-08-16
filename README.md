@@ -18,6 +18,7 @@ Wannan ita ce dabara da muke amfani da ita don auna nasarar ayyukanmu:
 
 $$Y_t = A_t \cdot f(K_t, L_t, T_t)$$
 
+
 | Variable | English Description | Bayani a Hausa |
 | :--- | :--- | :--- |
 | **$Y_t$** | **Output:** Total agricultural production. | **Amfanin gona** da darajar tattalin arziki. |
