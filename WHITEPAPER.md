@@ -1,4 +1,4 @@
-# 🏗️ Birni 3000: Where Tradition Meets the Future
+I'm# 🏗️ Birni 3000: Where Tradition Meets the Future
 **Official Whitepaper v1.0** *By Ibrahim Yakubu (Founder, Khamzas KGC Services)*
 
 ---
@@ -53,7 +53,7 @@ In an increasingly digital world, security is paramount. We leverage professiona
 * **LinkedIn:** [Ibrahim Yakubu](https://www.linkedin.com/in/ibrahim-yakubu-2b4747355)
 * **OpenSea:** [African Visionary Legends](https://opensea.io/african_visionary_legends)
 * **Twitter/X:** [@ibrahiminnah](https://twitter.com/ibrahiminnah)
-* **Discord:** [Https://discord.gg/S4KhHszr2]
+* **Discord:** [Https://discord.gg/S4KhHszr2
 
 ---
 *© 2026 Khamzas KGC Services. All Rights Reserved.*
