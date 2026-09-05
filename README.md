@@ -42,7 +42,7 @@ $$Y_t = A_t \cdot f(K_t, L_t, T_t)$$
 | :--- | :--- |
 | **Discord** | [Join our Community](https://discord.gg/S4KhHsrr2) |
 | **X (Twitter)** | [Follow @ibrahiminnah](https://x.com/ibrahiminnah) |
-| **Linkidin** |  https://github.com/ibrahiminnah-sys/Birni-3000-Vision |
+| **Linkidin** |  https://www.linkedin.com/in/ibrahim-yakubu-5059343b6?utm_source=share_via&utm_content=profile&utm_medium=member_android |
 | **OpenSea** | [Explore NFT Collection](https://opensea.io/african_visionary_legends) |
 | **Email** | [ibrahiminnah@gmail.com](mailto:ibrahiminnah@gmail.com) |
 
