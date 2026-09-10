@@ -2,8 +2,7 @@
 # 🌍 Birni 3000: African Visionary Legends
 
 <p align="center">
-  <img src="khamzas_kgc_logo.png" width="100%" alt="Khamzas KGC Services Logo">
-</p>
+  <img src="khamzas_kgc_logo.png" width="100%"
 
 
 
