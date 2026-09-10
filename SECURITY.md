@@ -1,5 +1,10 @@
 # 🛡️ Birni 3000 Security Protocol & Trust Framework
 
+<p align="center">
+  <img src="khamzas_kgc_security.png.png" width="100%" alt="Khamzas KGC Security">
+</p>
+
+
 Wannan kundin tsarin aiki ne na **African Visionary Legends**, wanda Engr. Ibrahim Yakubu ya tsara domin tabbatar da tsaron kadarorin dijital da amincin al'ummarmu.
 
 ---
