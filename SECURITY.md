@@ -16,7 +16,7 @@ Domin kaucewa asarar kudi ko satar NFTs, muna amfani da wadannan:
 
 ## 🆔 2. Identity & Transparency
 Muna gina amana ne ta hanyar bayyana gaskiya:
-* **Verified Founder:** Engr. Ibrahim Yakubu ya tantance kansa ta hanyar **Gitcoin Passport** (Proof of Humanity).
+* **Verified Founder:**  Ibrahim Yakubu ya tantance kansa ta hanyar **Gitcoin Passport** (Proof of Humanity).
 * **Legal Standing:** Khamzas KGC Services tana da rajista da **CAC (7363970)** da **SMEDAN (SUIN9219635599523)**.
 
 ## 🔒 3. Cyber Safety for the Community
