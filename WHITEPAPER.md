@@ -2,6 +2,10 @@ I'm# 🏗️ Birni 3000: Where Tradition Meets the Future
 **Official Whitepaper v1.0** *By Ibrahim Yakubu (Founder, Khamzas KGC Services)*
 
 ---
+<p align="center">
+  <img src="khamzas_kgc_logo.png.png" width="100%" alt="Khamzas KGC Services Logo">
+</p>
+
 
 ## 1. 👁️ Executive Summary
 Birni 3000 is a visionary project aimed at bridging the gap between Africa's rich cultural heritage and the burgeoning digital frontier. By integrating **Artificial Intelligence (AI)**, **Web3 (NFTs)**, and **Cybersecurity**, we are building a sustainable ecosystem that addresses real-world challenges in agriculture, security, and economic empowerment.
