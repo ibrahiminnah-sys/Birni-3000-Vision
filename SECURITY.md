@@ -25,4 +25,4 @@ Wani bangare na tsaronmu shi ne ilimi. Muna koya wa yaranmu:
 * Amfani da AI wajen inganta tsaron kansu a intanet.
 
 ---
-**"Tsaro ne harsashin gina Birni 3000."** *Signed: Engr. Ibrahim Yakubu*
+**"Tsaro ne harsashin gina Birni 3000."** *Signed: Ibrahim Yakubu*
