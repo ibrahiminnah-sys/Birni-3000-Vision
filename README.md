@@ -1,6 +1,6 @@
 # 🌍 Birni 3000: African Visionary Legends
 
-![KhamzasKGCLogo(./khamzas_kgc_logo.png)
+![Khamzas KGC Logo](./khamzas_kgc_logo.png)
 
 
 
