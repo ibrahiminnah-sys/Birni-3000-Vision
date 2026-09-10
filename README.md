@@ -2,8 +2,9 @@
 # 🌍 Birni 3000: African Visionary Legends
 
 <p align="center">
-  <img src="IMG_20260411_075321.png" width="100%" alt="Birni 3000 Vision">
+  <img src="khamzas_kgc_logo.png" width="100%" alt="Khamzas KGC Services Logo">
 </p>
+
 
 > **"Building the Bridge of Time: Integrating Agri-Business with AI, Web3, and Cybersecurity."**
 
