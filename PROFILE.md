@@ -1,7 +1,12 @@
-# 🏛️ Ibrahim Innah | Architect of the Digital Savannah
+# 🏛️ Ibrahim Yakubu | Architect of the Digital Savannah
 > **"I don't just write code; I weave the future of Africa into the Blockchain."**
 
 ---
+<p align="center">
+  <img src="khamzas_kgc_profile.png.png" width="100%" alt="Khamzas KGC Services Profile">
+</p>
+
+
 
 ## 🌍 The Vision: #Birni3000
 I am building **Birni 3000**, a visionary blueprint where **AI**, **Web3**, and **Cybersecurity** converge to solve real-world challenges—starting from the historic city of Kano to the global stage.
