@@ -5,7 +5,7 @@
 </p>
 
 
-Wannan kundin tsarin aiki ne na **African Visionary Legends**, wanda Engr. Ibrahim Yakubu ya tsara domin tabbatar da tsaron kadarorin dijital da amincin al'ummarmu.
+Wannan kundin tsarin aiki ne na **African Visionary Legends**, wanda Ibrahim Yakubu ya tsara domin tabbatar da tsaron kadarorin dijital da amincin al'ummarmu.
 
 ---
 
