@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-  <img src="khamzas_kgc_profile.png.png" width="100%" alt="Khamzas KGC Services Profile">
+  <img src="khamzas_kgc_profile2.png.jpg" width="100%" alt="Khamzas KGC Services Profile 2 JPG">
 </p>
 
 
