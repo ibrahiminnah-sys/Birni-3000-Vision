@@ -1,6 +1,5 @@
 # 🏛️ Ibrahim Yakubu | Architect of the Digital Savannah
 > **"I don't just write code; I weave the future of Africa into the Blockchain."**
-
 ---
 <p align="center">
   <img src="khamzas_kgc_profile.png.png" width="100%" alt="Khamzas KGC Services Profile">
