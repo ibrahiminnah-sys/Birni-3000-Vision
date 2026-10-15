@@ -19,19 +19,23 @@
 ## 📈 The Economic Growth Formula (Lissafin Tattalin Arziki)
 Wannan ita ce dabara da muke amfani da ita don auna nasarar ayyukanmu:
 
+📈 The Economic Growth Formula (Lissafin Tattalin Arziki)
+---
+
+Wannan ita ce dabara da muke amfani da ita don auna nasarar ayyukanmu:
+
 $$
 Y_t = A_t \cdot f(K_t, L_t, T_t)
 $$
 
-
-
 | Variable | English Description | Bayani a Hausa |
 | :--- | :--- | :--- |
-| **$Y_t$** | **Output:** Total agricultural production. | **Amfanin gona** da darajar tattalin arziki. |
-| **$A_t$** | **AI Factor:** Efficiency through AI innovation. | **Tasirin AI** da ƙirƙire-ƙirƙire. |
-| **$K_t$** | **Capital:** Smart machinery and investment. | **Jari** da kayan aikin zamani. |
-| **$L_t$** | **Labor:** Human expertise and capacity. | **Ƙwadago** da basirar manoma. |
-| **$T_t$** | **Technology:** Web3 and Cybersecurity. | **Web3 da Cybersecurity** don tsaro. |
+| **Y<sub>t</sub>** | **Output:** Total agricultural production. | **Amfanin gona:** Gimshikin darajar tattalin arziki. |
+| **A<sub>t</sub>** | **AI Factor:** Efficiency through AI innovation. | **Tasirin AI:** Kirkire-kirkire na fasaha. |
+| **K<sub>t</sub>** | **Capital:** Smart machinery and investment. | **Jari:** Kayan aikin zamani da zuba jari. |
+| **L<sub>t</sub>** | **Labor:** Human expertise and capacity. | **Kwadago:** Basira da kwarewar manoma. |
+| **T<sub>t</sub>** | **Technology:** Web3 and Cybersecurity. | **Fasaha:** Web3 da Cybersecurity don tsaro. |
+
 
 ---
 
