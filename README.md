@@ -16,14 +16,6 @@
 
 ---
 
-## 📈 The Economic Growth Formula (Lissafin Tattalin Arziki)
-Wannan ita ce dabara da muke amfani da ita don auna nasarar ayyukanmu:
-
-📈 The Economic Growth Formula (Lissafin Tattalin Arziki)
----
-
-Wannan ita ce dabara da muke amfani da ita don auna nasarar ayyukanmu:
-
 
  ## 📈 The Economic Growth Formula (Lissafin Tattalin Arziki)
 
